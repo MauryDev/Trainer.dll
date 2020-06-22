@@ -5,6 +5,9 @@ using System.Diagnostics;
 using System.Globalization;
 using Trainer;
 using Trainer.Common;
+
+// Example
+
 namespace App_Hacker
 {
 	class Program
